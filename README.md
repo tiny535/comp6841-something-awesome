@@ -1,5 +1,5 @@
 # comp6841-something-awesome
-This repository contains all the code I wrote or used for my Something Awesome project, which were the Bandit, Leviathan and Narnia stages from OverTheWire.
+This repository contains all the code I wrote or used for my COMP6841 Something Awesome project, which were the Bandit, Leviathan and Narnia stages from OverTheWire.
 
 ## Bandit
 - Level 23 -> 24: written by me
